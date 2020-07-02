@@ -1,4 +1,4 @@
 # Projeto-Site
 Projeto de um site de procura e cadastros de locais para coleta seletiva de vidro, plástico, papéis em geral e lixo eletrônico.
 
-Projeto de desenvolvimento do site Ecoleta.
+Projeto de desenvolvimento do site Ecoleta. Um site desenvolvido, para
