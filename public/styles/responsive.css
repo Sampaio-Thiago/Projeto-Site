@@ -1,0 +1,44 @@
+
+@media (max-width: 900px) {
+    #page-home {
+        background-position-x: 70vw;
+    }
+
+    #page-home .content {
+        align-items: center;
+        text-align: center;
+    }
+
+    #page-home header a {
+        position: absolute;
+        bottom: -110px;
+
+
+        transform: translateX(-15%);
+    }
+
+    #page-home main {
+        align-items: center;
+    }
+
+    #page-create-point .field-group {
+        flex-direction: column;
+    }
+
+    #page-create-point .field-group .field + .field {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 1800px) {
+    #page-home {
+        background-position-x: 40vw;
+    }
+}
+
+@media (max-height: 600px) {
+    #page-home {
+        background-position-y: 200px;
+    }
+}
+
